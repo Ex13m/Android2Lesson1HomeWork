@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Android 2 Lesson 1 Home Work</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="start">Start</string>
+    <string name="menu_with_comenu">Menu with comenu</string>
+    <string name="activity_back_button">Activity back button</string>
+    <string name="tabs">Tabs</string>
+    <string name="popup_menu">Popup menu</string>
+    <string name="title_activity_fragmen_popup_menu">FragmenPopupMenu</string>
+    <string name="frag_popup_txt">tap for popup menu</string>
+    <string name="my_home_work">my home work</string>
+</resources>

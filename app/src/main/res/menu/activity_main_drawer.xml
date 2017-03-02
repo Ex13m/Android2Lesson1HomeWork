@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="none">
+        <item android:title="Home first part">
+            <menu>
+                <item
+                    android:id="@+id/start"
+                    android:icon="@drawable/icone"
+                    android:title="@string/start" />
+                <item
+                    android:id="@+id/menu_with_comenu"
+                    android:icon="@drawable/icone"
+                    android:title="@string/menu_with_comenu" />
+                <item
+                    android:id="@+id/second_activity_with_back_button"
+                    android:icon="@drawable/icone"
+                    android:title="@string/activity_back_button" />
+            </menu>
+
+        </item>
+    </group>
+
+    <group android:checkableBehavior="none">
+        <item android:title="Home work second part">
+            <menu>
+                <item
+                    android:id="@+id/tabs"
+                    android:icon="@drawable/icone"
+                    android:title="@string/tabs" />
+                <item
+                    android:id="@+id/popup_menu"
+                    android:icon="@drawable/icone"
+                    android:title="@string/popup_menu" />
+            </menu>
+        </item>
+    </group>
+</menu>
